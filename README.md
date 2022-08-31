@@ -2,5 +2,5 @@
 Material do Bootcamp SQL
 
 ## Ferramentas utilizadas
-- Para: Modelagem Entidade e Relacionamento
-  - brModelo
+- Modelagem Entidade e Relacionamento
+  - brModelo (download[https://sourceforge.net/projects/brmodelo/])
