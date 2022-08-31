@@ -10,6 +10,7 @@
 
 ## Documentação
 - [Documentação SQL Server (T-SQL)](https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-transact-sql?view=sql-server-ver16)
+- [Documentação de Comandos - w3s](https://www.w3schools.com/sql/default.asp)
 
 ## Leituras recomendadas
 - [Apaixone-se pelo problema e não pela solução](https://medium.com/blog-do-zouza/apaixone-se-pelo-problema-e-n%C3%A3o-pela-solu%C3%A7%C3%A3o-6e5b13c89518)
