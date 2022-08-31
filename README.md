@@ -14,6 +14,7 @@
 
 ## Dicas
 - [Rodar SQL Online](https://sqliteonline.com/)
+- [Exercícios SQL](https://www.w3schools.com/sql/exercise.asp)
 
 ## Leituras recomendadas
 - [Apaixone-se pelo problema e não pela solução](https://medium.com/blog-do-zouza/apaixone-se-pelo-problema-e-n%C3%A3o-pela-solu%C3%A7%C3%A3o-6e5b13c89518)
