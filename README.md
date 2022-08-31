@@ -1,5 +1,4 @@
-# Bootcamp_SQL
-Material do Bootcamp SQL
+# Bootcamp SQL
 
 ## Ferramentas utilizadas
 - **Modelagem Entidade e Relacionamento**
