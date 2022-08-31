@@ -7,3 +7,9 @@
   - MySQL Workbench ([download](https://www.mysql.com/products/workbench/))
 - **Modelo Físico**
   - SQL Server ([download SQL Server Express](https://www.microsoft.com/pt-br/download/details.aspx?id=101064) e [download SQL Server Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16))
+
+## Documentação
+- [Documentação SQL Server (T-SQL)](https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-transact-sql?view=sql-server-ver16)
+
+## Leituras recomendadas
+- [Apaixone-se pelo problema e não pela solução](https://medium.com/blog-do-zouza/apaixone-se-pelo-problema-e-n%C3%A3o-pela-solu%C3%A7%C3%A3o-6e5b13c89518)
