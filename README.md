@@ -13,9 +13,11 @@
   - Visual Studio Code ([download](https://code.visualstudio.com/Download))
   - Python ([download](https://www.python.org/downloads/))
 
-## Documentação
+## Documentação, Livros, Artigos...
 - [Documentação SQL Server (T-SQL)](https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-transact-sql?view=sql-server-ver16)
 - [Documentação de Comandos - w3s](https://www.w3schools.com/sql/default.asp)
+- [Comandos SQL - EN](https://github.com/aasouzaconsult/Bootcamp_SQL/blob/main/livros/SQL.pdf)
+- [SQL Ilustrado](https://github.com/aasouzaconsult/Bootcamp_SQL/blob/main/livros/SQL%20Ilustrado.pdf)
 
 ## Dicas
 - [Rodar SQL Online](https://sqliteonline.com/)
