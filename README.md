@@ -9,6 +9,9 @@
   - SQL Server ([download SQL Server Express](https://www.microsoft.com/pt-br/download/details.aspx?id=101064) e [download SQL Server Management Studio](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16))
 - **Visualização de dados**
   - Microsoft Power BI ([download](https://powerbi.microsoft.com/pt-br/downloads/))
+- **Ferramenta de Programação**
+  - Visual Studio Code ([download](https://code.visualstudio.com/Download))
+  - Python ([download](https://www.python.org/downloads/))
 
 ## Documentação
 - [Documentação SQL Server (T-SQL)](https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-transact-sql?view=sql-server-ver16)
