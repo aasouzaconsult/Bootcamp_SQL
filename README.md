@@ -20,7 +20,11 @@
 ## Dicas
 - [Rodar SQL Online](https://sqliteonline.com/)
 - [Exercícios SQL](https://www.w3schools.com/sql/exercise.asp)
+- [Gerar dados](https://generatedata.com/generator)
 
 ## Leituras recomendadas
 - [Apaixone-se pelo problema e não pela solução](https://medium.com/blog-do-zouza/apaixone-se-pelo-problema-e-n%C3%A3o-pela-solu%C3%A7%C3%A3o-6e5b13c89518)
+- [Falta de Tempo ou de prioridade?](https://medium.com/blog-do-zouza/lack-of-time-or-priority-af938855e443)
+- [Data Warehouse e Business Intelligence](https://medium.com/@aasouzaconsult/aprofundando-em-data-warehouse-65ed2bca9a33)
+- [Análise de Dados](https://medium.com/@aasouzaconsult/an%C3%A1lise-de-dados-91a93b0c1312)
 - [SQL para Análise de Dados](https://medium.com/@aasouzaconsult/sql-para-an%C3%A1lise-de-dados-2183f746f2e1)
